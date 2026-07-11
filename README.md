@@ -30,7 +30,7 @@ button{background:#007bff;color:white;border:none;padding:12px
 <div class="result" id="result"></div>
 </div>
 <div class="tg">
-Unlimited use & API Key→Telegram: <a href=" " target="_blank">@你的TG用户名</a >
+Unlimited use & API Key→Telegram: <a href=" " target="_blank">@c20080104</a >
 </div>
 <script>
 let count = 0;
